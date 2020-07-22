@@ -15,7 +15,7 @@
 
 <a href=http://www.medium.com/@Smit.Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
-<br>
+<br><br><br>
 
 #### <h4>About Myself: 
 
