@@ -16,8 +16,6 @@
 <a href=www.medium.com/@Smit.Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
 
-<a href=www.SmitKakadiya.ml > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
-
 #### Let's Connect<br>
 
 #### <br>Name: Smit Kakadiya
