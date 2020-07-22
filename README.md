@@ -24,7 +24,7 @@
 #### Email: smkakdiya201@gmail.com
 
 #### <h4>About Myself: 
-<br>
+
 ● Energetic and dedicated learner with strong interpersonal skills.
 
 ● A self driven tech enthusiastic with a passion to learn and apply new concepts and to produce solutions for problems faced by others and to do so ample dedication, smart work and team spirit.
