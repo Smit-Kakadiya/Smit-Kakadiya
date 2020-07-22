@@ -15,9 +15,6 @@
 
 <a href=http://www.medium.com/@Smit.Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
-
-<a href=http://mailto:smkakdiya201@gmail.com > <img align="left" src="https://img.icons8.com/color/48/000000/email-open.png"></img></a>
-
 <br>
 
 #### <h4>About Myself: 
