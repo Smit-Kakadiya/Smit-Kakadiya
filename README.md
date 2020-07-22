@@ -4,20 +4,21 @@
 <a href=http://www.facebook.com/Smit.Kakdiya> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 
 
-<a href=www.linkedin.com/in/Smit-Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href=http://www.linkedin.com/in/Smit-Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 
 
-<a href=www.twitter.com/Smit__Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+<a href=http://www.twitter.com/Smit__Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 
 
-<a href=www.instagram.com/smit__kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href=http://www.instagram.com/smit__kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 
 
-<a href=www.medium.com/@Smit.Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+<a href=http://www.medium.com/@Smit.Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+
+
+<a href=http://mailto:smkakdiya201@gmail.com > <img align="left" src="https://img.icons8.com/color/48/000000/email-open.png"></img></a>
 
 <br>
-
-#### Email: smkakdiya201@gmail.com
 
 #### <h4>About Myself: 
 
