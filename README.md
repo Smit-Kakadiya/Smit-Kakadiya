@@ -1,7 +1,7 @@
 ### Hello there! I'm Smit Kakadiya, An Enthusiastic Software Development Engineer from Surat, India. I have rich experience in web based application development. I love to talk with you about our unique.
 
 
-<a href=www.facebook.com/Smit.Kakdiya> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+<a href=http://www.facebook.com/Smit.Kakdiya> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 
 
 <a href=www.linkedin.com/in/Smit-Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
