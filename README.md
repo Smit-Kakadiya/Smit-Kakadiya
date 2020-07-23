@@ -13,7 +13,7 @@
 <a href=http://www.instagram.com/smit__kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 
 
-<a href=http://www.medium.com/@Smit.Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+<a href=http://www.medium.com/@Smit.Kakadiya > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a><br>
 
 <br>
 
